@@ -1,0 +1,135 @@
+{
+  "background": {
+    "default": {
+      "value": "{blue.100}",
+      "type": "color"
+    },
+    "float": {
+      "value": "{blue.25}",
+      "type": "color"
+    },
+    "dip": {
+      "value": "{blue.300}",
+      "type": "color"
+    }
+  },
+  "fill": {
+    "float": {
+      "value": "{background.float}",
+      "type": "color"
+    },
+    "float-hover": {
+      "value": "{white}",
+      "type": "color"
+    },
+    "ghost": {
+      "value": "{blue.50}",
+      "type": "color"
+    },
+    "ghost-hover": {
+      "value": "{blue.25}",
+      "type": "color"
+    },
+    "primary": {
+      "value": "{purple.500}",
+      "type": "color"
+    },
+    "primary-hover": {
+      "value": "{purple.600}",
+      "type": "color"
+    },
+    "primary-pressed": {
+      "value": "{purple.700}",
+      "type": "color"
+    },
+    "separator": {
+      "value": "{blue.200}",
+      "type": "color"
+    }
+  },
+  "foreground": {
+    "contrast": {
+      "value": "{blue.950}",
+      "type": "color"
+    },
+    "dim": {
+      "value": "{blue.800}",
+      "type": "color"
+    },
+    "disabled": {
+      "value": "{blue.500}",
+      "type": "color"
+    },
+    "match-background": {
+      "value": "{background.default}",
+      "type": "color"
+    },
+    "error": {
+      "value": "{red.400}",
+      "type": "color"
+    },
+    "primary": {
+      "value": "{purple.500}",
+      "type": "color"
+    },
+    "primary-contrast": {
+      "value": "{purple.50}",
+      "type": "color"
+    }
+  },
+  "border": {
+    "default": {
+      "value": "{blue.300}",
+      "type": "color"
+    },
+    "hint": {
+      "value": "{blue.200}",
+      "type": "color"
+    },
+    "emphasized": {
+      "value": "{purple.300}",
+      "type": "color"
+    }
+  },
+  "always-dark": {
+    "fill": {
+      "float": {
+        "value": "{blue.800}",
+        "type": "color"
+      },
+      "float-hover": {
+        "value": "{blue.700}",
+        "type": "color"
+      },
+      "ghost": {
+        "value": "{blue.600}",
+        "type": "color"
+      },
+      "separator": {
+        "value": "{blue.500}",
+        "type": "color"
+      }
+    },
+    "foreground": {
+      "contrast": {
+        "value": "{blue.25}",
+        "type": "color"
+      },
+      "primary": {
+        "value": "{purple.200}",
+        "type": "color"
+      }
+    }
+  },
+  "default": {
+    "value": {
+      "x": "0",
+      "y": "1",
+      "blur": "4",
+      "spread": "0",
+      "color": "#00000026",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  }
+}

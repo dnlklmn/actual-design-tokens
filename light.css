@@ -1,0 +1,31 @@
+:root {
+  /* Light theme variables */
+  --background-default: #DDE6EE;
+  --background-float: #F8FAFB;
+  --background-dip: #A9C0D6;
+  --fill-float: #F8FAFB;
+  --fill-float-hover: #fff;
+  --fill-ghost: #EEF2F6;
+  --fill-ghost-hover: #F8FAFB;
+  --fill-primary: #8719E0;
+  --fill-primary-hover: #7A0ECC;
+  --fill-primary-pressed: #610BA2;
+  --fill-separator: #CDD9E4;
+  --foreground-contrast: #070D12;
+  --foreground-dim: #172A3D;
+  --foreground-disabled: #3C648B;
+  --foreground-match-background: #DDE6EE;
+  --foreground-error: #FF3533;
+  --foreground-primary: #8719E0;
+  --foreground-primary-contrast: #EFE5FF;
+  --border-default: #A9C0D6;
+  --border-hint: #CDD9E4;
+  --border-emphasized: #AC6FF1;
+  --always-dark-fill-float: #172A3D;
+  --always-dark-fill-float-hover: #1F3951;
+  --always-dark-fill-ghost: #325576;
+  --always-dark-fill-separator: #3C648B;
+  --always-dark-foreground-contrast: #F8FAFB;
+  --always-dark-foreground-primary: #B990FF;
+  --default: [object Object];
+}
